@@ -1,0 +1,46 @@
+body {
+    background-color: lightblue ;
+}
+header {
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(109, 108, 108);
+    margin: 8px;
+    padding: 4PX;
+    border-radius: 5px;
+    background-color: lightseagreen;
+}
+h1 {
+    font-size: 70px;
+    font-family: sans-serif;
+}
+.HEADP {
+    font-size: 30px;
+    font-weight: 800;
+}
+section {
+    background-color: lightseagreen;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10PX;
+}
+a {
+    text-decoration: none;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    color: darkblue;
+    background-color: lightblue;
+}
+a:hover {
+    background-color: lightseagreen;
+    transition-duration: 0.5s;
+}
+h2 {
+    font-size: 30px;
+}
+p {
+    font-size: 17px;
+    font-family: sans-serif;
+    font-weight: 500;
+}
